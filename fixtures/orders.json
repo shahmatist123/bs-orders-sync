@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Петров",
+    "phone": "+7 999 123-45-67",
+    "email": "ivan@example.com",
+    "amount": 1000,
+    "created_at": "2026-10-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Иван П.",
+    "phone": "8 (999) 123 45 67",
+    "email": "",
+    "amount": 5000,
+    "created_at": "2026-10-02T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "И. Петров",
+    "phone": "79991234567",
+    "email": "ivan@example.com",
+    "amount": 3000,
+    "created_at": "2026-10-03T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Мария Сидорова",
+    "phone": "8-916-000-00-01",
+    "email": "maria@example.com",
+    "amount": 200,
+    "created_at": "2026-10-01T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Мария С.",
+    "phone": "+7 (916) 000 00 01",
+    "email": "maria@example.com",
+    "amount": 200,
+    "created_at": "2026-10-05T12:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Олег Кузнецов",
+    "phone": "8 903 111 22 33",
+    "email": "",
+    "amount": 7500,
+    "created_at": "2026-10-04T08:30:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Анна Волкова",
+    "phone": "+79219998877",
+    "email": "anna@example.com",
+    "amount": 0,
+    "created_at": "2026-10-02T14:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Анна В.",
+    "phone": "8 921 999 88 77",
+    "email": "",
+    "amount": 1500,
+    "created_at": "2026-10-06T16:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Павел Орлов",
+    "phone": "9005551212",
+    "email": "pavel@example.com",
+    "amount": 300,
+    "created_at": "2026-10-01T09:15:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Елена Морозова",
+    "phone": "+7-926-123-45-67",
+    "email": "elena@example.com",
+    "amount": 9000,
+    "created_at": "2026-10-03T13:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Елена М.",
+    "phone": "8 (926) 123-45-67",
+    "email": "",
+    "amount": 100,
+    "created_at": "2026-10-07T10:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Сергей Зайцев",
+    "phone": "8 999 111 00 00",
+    "email": "sergey@example.com",
+    "amount": 450,
+    "created_at": "2026-10-02T18:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Дмитрий Лебедев",
+    "phone": "+7 916 445 56 67",
+    "email": "dmitry@example.com",
+    "amount": 12000,
+    "created_at": "2026-10-08T11:30:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Без телефона",
+    "phone": "123",
+    "email": "x1@example.com",
+    "amount": 999,
+    "created_at": "2026-10-01T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Пустой телефон",
+    "phone": "",
+    "email": "x2@example.com",
+    "amount": 999,
+    "created_at": "2026-10-01T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Текст в поле",
+    "phone": "не указан",
+    "email": "",
+    "amount": 999,
+    "created_at": "2026-10-01T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Слишком коротко",
+    "phone": "+7 999",
+    "email": "",
+    "amount": 999,
+    "created_at": "2026-10-01T00:00:00Z"
+  }
+]

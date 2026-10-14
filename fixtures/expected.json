@@ -1,0 +1,58 @@
+{
+  "clients": [
+    {
+      "name": "Павел Орлов",
+      "phone": "+79005551212",
+      "email": "pavel@example.com",
+      "amount": 300
+    },
+    {
+      "name": "Олег Кузнецов",
+      "phone": "+79031112233",
+      "email": "",
+      "amount": 7500
+    },
+    {
+      "name": "Мария С.",
+      "phone": "+79160000001",
+      "email": "maria@example.com",
+      "amount": 200
+    },
+    {
+      "name": "Дмитрий Лебедев",
+      "phone": "+79164455667",
+      "email": "dmitry@example.com",
+      "amount": 12000
+    },
+    {
+      "name": "Анна В.",
+      "phone": "+79219998877",
+      "email": "",
+      "amount": 1500
+    },
+    {
+      "name": "Елена Морозова",
+      "phone": "+79261234567",
+      "email": "elena@example.com",
+      "amount": 9000
+    },
+    {
+      "name": "Сергей Зайцев",
+      "phone": "+79991110000",
+      "email": "sergey@example.com",
+      "amount": 450
+    },
+    {
+      "name": "Иван П.",
+      "phone": "+79991234567",
+      "email": "",
+      "amount": 5000
+    }
+  ],
+  "stats": {
+    "received": 17,
+    "unique": 8,
+    "duplicates_merged": 5,
+    "invalid_dropped": 4
+  }
+}

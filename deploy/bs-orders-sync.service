@@ -1,0 +1,24 @@
+[Unit]
+Description=bs-orders-sync
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Environment=PORT=8787
+ExecStart=/usr/bin/python3 /opt/bs-orders-sync/app.py
+Restart=always
+RestartSec=2
+DynamicUser=yes
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictAddressFamilies=AF_INET AF_INET6
+MemoryMax=128M
+
+[Install]
+WantedBy=multi-user.target
